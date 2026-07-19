@@ -4,3 +4,5 @@ I did a basic configuration that focus on VLANS,Router on a stick, Extended ACLs
 to get insdie the router
 USERNAME - Admin
 PASSWORD - cisco
+
+![Network Topology](TOPOLOGY)
